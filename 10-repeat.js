@@ -1,0 +1,2 @@
+// What will be the output of the given code?
+// The code console.log('gfg'.repeat(3)); uses the repeat() method to create a new string by repeating the string 'gfg' three times. The output will be 'gfgfgfg' which is displayed in the console. This method is useful for printing repeated text easily.
