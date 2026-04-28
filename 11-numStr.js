@@ -10,3 +10,8 @@ console.log("6" - 1);
 // ---What will be the output of the given code?
 // '1' is a integer and '1' is a string. Strict equality operator(===) check both the type and the value. They look similar but they have different data type. So =, the answer in false.
 console.log(1 === "1");
+
+// ---What will be the output of the given code?
+// 'null' represents the absence of any value and 'undefined' represents a variable that has been declared but not assigned any value. The answer is true because JavaScript treats them equal because of '==' loose equality operator.
+
+console.log(null == undefined)
